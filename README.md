@@ -1,6 +1,8 @@
 # INF1002P8PythonProject
 Python Project
 
+
+
 whitelist = ['gmail.com', 'yahoo.com', 'icloud.com', 'outlook.com']
 
 print('Welcome to safe email checker, please input your email')
